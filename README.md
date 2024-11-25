@@ -14,9 +14,7 @@ A simple Chrome extension that automatically removes the subject line and previe
     - Enable "Developer mode" in the top right corner
     - Click "Load unpacked"
     - Select the extracted folder
-
-![Developer mode](https://developer.chrome.com/static/docs/extensions/get-started/tutorial/welcome-to-chrome-extensions/image/dev-mode.png)
-
+    
 ## Usage
 
 The extension works automatically after installation:
