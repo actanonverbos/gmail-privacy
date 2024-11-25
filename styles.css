@@ -1,0 +1,16 @@
+/* Hide email preview text */
+.y2 {
+    display: none !important;
+  }
+  
+  /* Hide subject lines */
+  .bog {
+    visibility: hidden !important;
+  }
+  
+  /* Show a placeholder for subject line to maintain layout */
+  .bog::after {
+    content: "[Hidden Subject]";
+    visibility: visible;
+    color: #666;
+  }
